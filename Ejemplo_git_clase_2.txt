@@ -1,3 +1,7 @@
 probandooo
 generando cambios desde github web (repo en la nube!!)
+<<<<<<< HEAD
 agregamos una nueva linea al archivo, desde el repo local
+=======
+2da modificacion del archivo,desde el repo web
+>>>>>>> dfe581f40980ae8990c25acd39880820cd24872c
